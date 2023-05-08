@@ -1,0 +1,37 @@
+{
+  "site": {
+    "title": "Webclass Nextjs",
+    "base_url": "/",
+    "favicon": "/2023/05/08/i1BPyN.jpeg"
+  },
+
+  "settings": {
+    "pagination": 6,
+    "summary_length": 200,
+    "blog_folder": "posts"
+  },
+
+  "profile": {
+    "name": "webClassPage",
+    "image": "/2023/05/08/i1BPyN.jpeg",
+    "designation": "Longchao Da, Hao Mei",
+    "bio": "A carefully designed web class tutorial for your better education."
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "tag_manager_id": "",
+    "copyright": "Copyright © 2022 by authors: Longchao Da, Hao Mei"
+  },
+
+  "metadata": {
+    "meta_author": "Statichunt",
+    "meta_image": "",
+    "meta_description": ""
+  },
+
+  "disqus": {
+    "enable": true,
+    "shortname": "themefisher-template"
+  }
+}

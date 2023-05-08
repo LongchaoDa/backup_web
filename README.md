@@ -2,29 +2,15 @@
 Please READ everything I am giving you and everyone needs to submit in Canvas.
 ## Install Instructions
 **Run:**
-- npm install
+- npm install --legacy-peer-deps
 - npm run build <- after first install
 - npm run dev --turbo <-Startup Live Dev Server for lIve preview on http://locahhost:30000
-
+- the figures is using resources server: https://imgloc.com/
 ## Lecture Videos
 - [Project 2 Intro and Project 1 Debrief  Part 1](https://youtu.be/TaTOCifmREc)
 - [Project 2 Intro and Project 1 Debrief  Part 2](https://youtu.be/LO99DuD6_4I)
 - [Introduction to the Psychology of Web Design](https://youtu.be/uo969JG6M-o)
 - [Project 2 Update - Design and Fixing an Error in Project 2](https://youtu.be/AtjM_ozVpZM)
-- [Brand Archetypes an Introduction to the Psychology of Design](https://youtu.be/Kkojhby3EOI)
-- [Projec 2 Tips for Completion and Implementation of Sales Funnel and Testing](https://youtu.be/UCMFloxt39Q)
-### Project 1 - Final Grading Information
-- [Project 1 Final Grading - Part 1](https://youtu.be/Wl317U7z_OI)
-- [Project 1 Final Grading - Part 2](https://youtu.be/uMgSlu6KzVg)
-- [Project 1 Final Grading - Part 3](https://youtu.be/hTyH7oYpnvY)
-
-0 [Brand Archetypes and Implementing the Sales Funnel](https://youtu.be/XFRSYXBpXSU)
-## Reading and Cheat Sheets
-- [Brand Archtype Design Cheat Sheet](https://docs.google.com/document/d/1TLPmXrTA0XRQ133lMOcrVJUHFa3XQDpLPfIbFw6BgYQ/edit?usp=sharing)
-## Google Analytics / Other Info
-- [GA 4 Tutorial Overview](https://neilpatel.com/blog/google-analytics-4/)
-- [React GA - Google analytics Main react library](https://github.com/react-ga/react-ga)
-- [React Google Tutorial but you proably want to look for others](https://tamalweb.com/google-analytics-with-reactjs)
 ## Project Requirements
 # Introduction to the Project and Grading System
 
@@ -76,4 +62,109 @@ Remember, the key to success in this project is consistent effort, collaboration
 [Project Document](https://docs.google.com/document/d/1yFSBTO-NJx8L_fVInltIbFbVo1vh4jbyIZIlquLREvk/edit?usp=sharing)
 
 # Start Working On This - You need to go through all of the content:
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+
+<p align=center>This is a NextJs based web page for the webclass project</p>
+
+<p align=center>
+  <a href="https://github.com/vercel/next.js/releases/tag/v13.0.6" alt="Contributors">
+    <img src="https://img.shields.io/static/v1?label=NEXTJS&message=13.0&color=000&logo=nextjs" />
+  </a>
+
+  <a href="https://github.com/statichunt/hydrogen-nextjs/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/statichunt/hydrogen-nextjs" alt="license"></a>
+
+  <img src="https://img.shields.io/github/languages/code-size/statichunt/hydrogen-nextjs" alt="code size">
+
+  <a href="https://github.com/statichunt/hydrogen-nextjs/graphs/contributors">
+    <img src="https://i.328888.xyz/2023/04/11/ipkiM8.png" alt="contributors"></a>
+</p>
+
+
+## Key Features
+
+- Google Page Speed score 100! (Desktop)
+- Supports Contact Form
+- Using Disqus Comment Support 
+- Related Posts Suggestion 
+- Code line Support with custom components
+- Customized Logo By AI
+- Taxonomy Page Support 
+- Images Optimized With Next/image
+
+
+## Completion and quality of WebClass
+<a href="https://github.com/statichunt/hydrogen-nextjs/graphs/contributors">
+    <img src="https://i.328888.xyz/2023/05/09/iQyPut.png" alt="contributors"></a>
+
+
+## SEO and file size check
+<a href="https://github.com/statichunt/hydrogen-nextjs/graphs/contributors">
+    <img src="https://i.328888.xyz/2023/05/09/iQyQTA.png" alt="contributors"></a>
+
+
+
+## Accessibility of our deployed website
+
+### the link is: https://njit-wis.github.io/project-2-team-saltedfish/
+<a href="https://github.com/statichunt/hydrogen-nextjs/graphs/contributors">
+    <img src="https://i.328888.xyz/2023/05/09/iQyqWo.png" alt="contributors"></a>
+
+## Website testing and auto execution
+<a href="https://github.com/statichunt/hydrogen-nextjs/graphs/contributors">
+    <img src="https://i.328888.xyz/2023/05/09/iQyupN.png" alt="contributors"></a>
+
+
+
+
+
+
+
+<!-- installation -->
+
+## Installation
+
+After downloading the template, you have some prerequisites to install. Then you can run it on your localhost. You can view the package.json file to see which scripts are included.
+
+### Install prerequisites (once for a machine)
+
+- **Node Installation:** [Install node js](https://nodejs.org/en/download/) [Recommended LTS version]
+
+### Local setup
+
+After successfully installing those dependencies, open this template with any IDE [[VS Code](https://code.visualstudio.com/) recommended], and then open the internal terminal of IDM [vs code shortcut <code>ctrl/cmd+\`</code>]
+
+- Install dependencies
+
+```
+npm install --legacy-peer-deps
+```
+- Build locall
+```
+npm run build
+```
+
+- Run locally
+
+```
+npm run dev
+```
+
+After that, it will open up a preview of the template in your default browser, watch for changes to source files, and live-reload the browser when changes are saved.
+
+## Production Build
+
+After finishing all the customization, you can create a production build by running this command.
+
+```
+npm run build
+```
+
+
+<!-- licence -->
+## License
+
+Copyright (c) 2019 - Present, Designed & Developed by [statichunt](https://statichunt.com)
+
+**Code License:** Released under the [MIT](https://github.com/statichunt/hydrogen-nextjs/blob/main/LICENSE) license.
+
+**Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
